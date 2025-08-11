@@ -1,0 +1,11 @@
+7 campi
+ip classe A pra todos
+8 lab por campus ip classe C uma sala de controle ip classe B
+
+
+7 campi
+8 labs/camp
+20 pc/lab
+4 pcs, controle/camp
+
+1148 pcscd ciscopackagetracer
